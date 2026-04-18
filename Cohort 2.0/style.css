@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(236, 234, 234);
+}
+h2{
+    text-align: center;
+}
+#header{
+    background-color: rgb(7, 7, 48);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    height: 200px;
+    padding-top: 80px;
+    text-align: center;
+}
+#footer{    
+    background-color: rgb(7, 7, 48);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+.but{
+    margin-left: 250px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 400px;
+
+}
+#abt {
+    margin-top:20px ;
+    padding: 20px;
+    font-style: italic ;
+    width: 900px;
+    height: 170px;
+    margin-left: 350px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#edu{
+    margin-top:20px ;
+    padding: 20px;
+    font-style: italic ;
+    width: 900px;
+    height: 150px;
+    margin-left: 350px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(115, 236, 161);
+    color: black;
+}
+#skill{
+    margin-top:20px ;
+    padding: 20px;
+    font-style: italic ;
+    width: 900px;
+    height: 200px;
+    margin-left: 350px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(81, 197, 232);
+    color: black;
+}
+#pro{
+    margin-top:20px ;
+    padding: 20px;
+    font-style: italic ;
+    width: 900px;
+    height: 200px;
+    margin-left: 350px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(232, 236, 115);
+    color: black;
+}
+#cont{
+    margin-top:20px ;
+    padding: 20px;
+    font-style: italic ;
+    width: 900px;
+    height: 200px;
+    margin-left: 350px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(236, 161, 115);
+    color: black;
+    margin-bottom: 20px;
+}
