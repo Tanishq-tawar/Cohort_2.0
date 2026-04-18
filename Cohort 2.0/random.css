@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html, body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background: #000;
+}
+
+button{
+    position:absolute;
+    padding: 15px 30px;
+    color: #fff;
+    font-size: 50px;
+    text-transform: uppercase;
+    background-color: tomato;
+    border: 2px solid #fff;
+    border-radius: 5%;
+    cursor: pointer;
+    z-index: 1;
+}
+button:active{
+    transform: scale(0.98);
+}
